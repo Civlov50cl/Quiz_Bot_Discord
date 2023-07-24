@@ -2,7 +2,7 @@ import discord
 import random
 
 # Remplacez "YOUR_TOKEN_HERE" par le véritable token de votre bot Discord.
-TOKEN = "MTEzMjk2ODcwMjc5MTM4OTI5NA.G0nCHA.O4eohwJbKTeFkso2VL3MYKzhsD0-0AU7jJ98Ac"
+TOKEN = "MTEzMjk2ODcwMjc5MTM4OTI5NA.GeUqql.RwcpapHnI6tTpRXdEidwfOo6yPsl32UDjjYJUM"
 
 client = discord.Client()
 
