@@ -58,6 +58,31 @@ nintendo_questions = [
         "choices": ["a) 150", "b) 151", "c) 200", "d) 100"],
         "answer": "b) 151"
     },
+    {
+        "question": "Quel personnage populaire de Nintendo porte une capuche verte et est connu pour ses aventures dans la forêt Kokiri ?",
+        "choices": ["a) Link", "b) The Hero of Time", "c) The Legend of Zelda", "d) Hylian Champion"],
+        "answer": "a) Link"
+    },
+    {
+        "question": "Dans le monde de Nintendo, quel est le nom du célèbre plombier frère de Mario, souvent reconnu par sa casquette verte et sa salopette ?",
+        "choices": ["a) Green Mario", "b) Mr. L", "c) Luigi", "d) Jumpman's Brother"],
+        "answer": "c) Luigi"
+    },
+    {
+        "question": "Quel jeu de course emblématique de Nintendo met en scène des personnages tels que Mario, Peach et Bowser conduisant des karts dans des circuits délirants ?",
+        "choices": ["a) Super Mario Racing", "b) Mushroom Speedway", "c) Mario Kart", "d) Karting Chaos"],
+        "answer": "c) Mario Kart"
+    },
+    {
+        "question": "Qui est le créateur emblématique de nombreuses franchises Nintendo, dont Mario, Donkey Kong et The Legend of Zelda ?",
+        "choices": ["a) Shigeru Miyamoto", "b) Hiroshi Yamauchi", "c) Satoru Iwata", "d) Gunpei Yokoi"],
+        "answer": "a) Shigeru Miyamoto"
+    },
+    {
+        "question": "Dans le jeu Super Smash Bros. Ultimate, quel personnage emblématique de Nintendo est également connu sous le nom de The Hero of Time et porte souvent une tunique verte ?",
+        "choices": ["a) Samus Aran", "b) Pikachu", "c) Bowser", "d) Link"],
+        "answer": "d) Link"
+    },
     # Ajoutez plus de questions ici
 ]
 
